@@ -1,4 +1,4 @@
-Frist_name = "pai"
-last_name = "naja"
+First_name = "pai"
+Last_name = "naja"
 
-print(Frist_name + " " + last_name)
+print(First_name + " " + Last_name)
