@@ -1,5 +1,3 @@
 ft = input("What you gotta say? ")
-wf = input("I got that! Anything else? ")
-while True:
-        print("I got that! Anything else? ")
-        
+while ft != "STOP":
+    ft = input("I got that! Anything else? ")
